@@ -424,9 +424,9 @@ global.tiempo = d.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', 
 //*****************************
 global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝`
 global.gt = '꧁𝑇ℎ𝑒-𝐵𝑙𝑎𝑐𝑘𝐵𝑜𝑡-𝑀𝐷꧂'
-global.mysticbot = '꧁𝑇ℎ𝑒-𝐵𝑙𝑎𝑐𝑘𝐵𝑜𝑡-𝑀𝐷꧂'
+global.blackbot = '꧁𝑇ℎ𝑒-𝐵𝑙𝑎𝑐𝑘𝐵𝑜𝑡-𝑀𝐷꧂'
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
-global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
+global.blackbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
 global.waitt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 global.waittt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 global.waitttt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
