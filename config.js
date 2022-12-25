@@ -25,9 +25,9 @@ global.suittag = ['595986637644']
 global.prems = ['595994825505'] 
 
 global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
-global.wm = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
-global.igfg = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
+global.author = '꧁𝑇ℎ𝑒-𝐵𝑙𝑎𝑐𝑘𝐵𝑜𝑡-𝑀𝐷꧂'
+global.wm = '꧁𝑇ℎ𝑒-𝐵𝑙𝑎𝑐𝑘𝐵𝑜𝑡-𝑀𝐷꧂'
+global.igfg = '꧁𝑇ℎ𝑒-𝐵𝑙𝑎𝑐𝑘𝐵𝑜𝑡-𝑀𝐷꧂'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 
 global.keysZens = ['fiktod', 'c2459db922', 'BF39D349845E', '675e34de8a', '37CC845916', '0b917b905e6f', '6fb0eff124']
@@ -264,8 +264,8 @@ string = string.toLowerCase()
       berlian: '♦️ Joya',
       kyubi: '🌀 Magia',
       gold: '👑 Oro',
-      money: '👾 MysticCoins',
-      tiketcoin: '🎫 mystic Tickers',
+      money: '👾 BlackCoins',
+      tiketcoin: '🎫 black Tickers',
       stamina: '✨ Energía',
       potion: '🥤 Poción',
       aqua: '💧 Agua',
@@ -423,14 +423,14 @@ global.año = d.toLocaleDateString('es', { year: 'numeric' })
 global.tiempo = d.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true })
 //*****************************
 global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝`
-global.gt = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
-global.mysticbot = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
+global.gt = '꧁𝑇ℎ𝑒-𝐵𝑙𝑎𝑐𝑘𝐵𝑜𝑡-𝑀𝐷꧂'
+global.mysticbot = '꧁𝑇ℎ𝑒-𝐵𝑙𝑎𝑐𝑘𝐵𝑜𝑡-𝑀𝐷꧂'
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
 global.waitt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 global.waittt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 global.waitttt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
-global.nomorown = '5219993404349'
+global.nomorown = '595994836199'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 global.cmenut = '❖––––––『'
 global.cmenub = '┊✦ '
